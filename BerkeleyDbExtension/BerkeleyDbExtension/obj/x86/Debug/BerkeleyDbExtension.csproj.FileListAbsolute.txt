@@ -1,0 +1,10 @@
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\BerkeleyDbExtension.dll
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\BerkeleyDbExtension.pdb
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\libdb_dotnet61.dll
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\protobuf-net.dll
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\libdb_dotnet61.pdb
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\libdb_dotnet61.xml
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\protobuf-net.pdb
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\bin\x86\Debug\protobuf-net.xml
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\obj\x86\Debug\BerkeleyDbExtension.dll
+E:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension\obj\x86\Debug\BerkeleyDbExtension.pdb

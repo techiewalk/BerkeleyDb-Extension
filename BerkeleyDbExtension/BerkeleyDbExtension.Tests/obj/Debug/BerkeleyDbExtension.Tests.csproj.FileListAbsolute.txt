@@ -1,0 +1,12 @@
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\BerkeleyDbExtension.Tests.dll
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\BerkeleyDbExtension.Tests.pdb
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\BerkeleyDbExtension.dll
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\libdb_dotnet61.dll
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\protobuf-net.dll
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\BerkeleyDbExtension.pdb
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\libdb_dotnet61.pdb
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\libdb_dotnet61.xml
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\bin\Debug\protobuf-net.pdb
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\obj\Debug\BerkeleyDbExtension.Tests.csprojResolveAssemblyReference.cache
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\obj\Debug\BerkeleyDbExtension.Tests.dll
+D:\Experiments\C#\BerkeleyDbReader\BerkeleyDbExtension.Tests\obj\Debug\BerkeleyDbExtension.Tests.pdb

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BerkeleyDbExtension.Configuration.BdbConfig" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\BdbConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BerkeleyDbExtension.Configuration.Configuration">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BerkeleyDbExtension.Core.Connection&lt;TKey, TValue&gt;" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAIAAACAAGCAYlAACAAAAAAAAAAAABAEgAAAAACAAAA=</HashCode>
+      <FileName>Core\Connection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BerkeleyDbExtension.Extensions.ConverterExtensions">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAACAAAgAAAAAA=</HashCode>
+      <FileName>Extensions\ConverterExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BerkeleyDbExtension.Translators.GenericTranslator&lt;TKey, TValue&gt;" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAIAkAAAAAAA=</HashCode>
+      <FileName>Translators\GenericTranslator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="BerkeleyDbExtension.Intefaces.IConnection&lt;Tkey, Tvalue&gt;">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAIAAACAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Intefaces\IConnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BerkeleyDbExtension.Intefaces.ICursor&lt;TKey, TValue&gt;">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAABgAAAACAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Intefaces\ICursor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BerkeleyDbExtension.Intefaces.ITranslator&lt;TKey, TValue&gt;">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAIAkAAAAAAA=</HashCode>
+      <FileName>Intefaces\ITranslator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
