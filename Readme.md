@@ -40,7 +40,6 @@ MIT
    [C#]: <https://github.com/dotnet/csharplang>
    [Visual Studio]: <https://visualstudio.microsoft.com/>
 
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
